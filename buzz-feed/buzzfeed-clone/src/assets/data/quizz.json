@@ -1,0 +1,42 @@
+
+{
+  "title": "Qual personagem de Harry Potter você seria?",
+  "questions": [
+    {
+      "question": "Qual é a sua maior qualidade?",
+      "answers": [
+        "Coragem",
+        "Inteligência",
+        "Lealdade",
+        "Ambição"
+      ]
+    },
+    {
+      "question": "O que você faria em seu tempo livre em Hogwarts?",
+      "answers": [
+        "Praticar Quadribol",
+        "Estudar na biblioteca",
+        "Ajudar outros alunos",
+        "Explorar a Floresta Proibida"
+      ]
+    },
+    {
+      "question": "Qual sua matéria favorita seria?",
+      "answers": [
+        "Defesa Contra as Artes das Trevas",
+        "Feitiços",
+        "Herbologia",
+        "Poções"
+      ]
+    },
+    {
+      "question": "Como você lida com desafios?",
+      "answers": [
+        "Enfrento de cabeça erguida",
+        "Analiso todas as possibilidades",
+        "Peço ajuda aos amigos",
+        "Uso minha astúcia"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+<div class="container">
+    <h2>{{ title }}</h2>
+    <div *ngIf="questions[questionIndex]">
+    <p>{{ questions[questionIndex].question }}</p>
+      <button *ngFor="let a of questions[questionIndex].answers" (click)="choose(a)">{{ a }}</button>
+    </div>
+</div>
